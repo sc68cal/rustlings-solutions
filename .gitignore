@@ -1,3 +1,5 @@
 Cargo.lock
 target/
 .vscode/
+exercises
+.rustlings-state.txt
